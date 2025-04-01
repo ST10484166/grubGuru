@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">grubGuru</string>
+    <string name="app_name">Meal Suggester</string>
+    <string name="title_text">Meal Suggester</string>
+    <string name="hint_time_input">Enter time of day (e.g. Morning, Mid-Morning, Afternoon)</string>
+    <string name="button_suggest">Suggest Meal</string>
+    <string name="button_reset">Reset</string>
+    <string name="morning_meal">How about some eggs?</string>
+    <string name="mid_morning_meal">A light snack like fruit would be great!</string>
+    <string name="afternoon_meal">Try a sandwich for lunch.</string>
+    <string name="mid_afternoon_meal">Maybe have a small cake for energy.</string>
+    <string name="dinner_meal">Pasta sounds like a great main course!</string>
+    <string name="after_dinner_meal">Ice cream would be a nice dessert.</string>
+    <string name="error_message">Invalid input! Please enter a valid time of day.</string>
 </resources>
