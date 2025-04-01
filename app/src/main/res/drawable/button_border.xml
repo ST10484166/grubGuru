@@ -5,10 +5,9 @@
     <!-- Border Color & Thickness -->
     <stroke android:width="3dp" android:color="#FFFFFF" /> <!-- White Border -->
 
-    <!-- Grey Transparent Background -->
-    <solid android:color="#80000000"/> <!-- 50% Transparent Grey (Alpha + Grey) -->
+    <!-- Background Transparency -->
+    <solid android:color="#80FFFFFF"/> <!-- 50% Transparent White -->
 
     <!-- Rounded Corners -->
     <corners android:radius="10dp"/>
 </shape>
-
